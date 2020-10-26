@@ -6,7 +6,7 @@
 <style>
 </style>
 
-<h1>All The Discord Modding Drama</h1>
+<h1>Discord Modding Archive</h1>
 <a
 	href="/events"
 	on:click={() => {
