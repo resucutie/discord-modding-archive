@@ -12,3 +12,6 @@
 	on:click={() => {
 		$path = '/events';
 	}}>Timeline</a>
+
+<a href="https://pull.git.ci/process/KyzaGitHub/discord-modding-archive">Trigger
+	Website Update</a>
