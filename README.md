@@ -9,12 +9,14 @@ If you wanna add more, free feel to make a issue or a PR.
 - BetterDocs/DiscordSource
   - It was a famous website where BD plugins and themes are distributed. But these wasn't distributed without permission of the plugin and themes respective devs. Luckily for us it got shut down after a time.
 - Powercord VS Vizality
-  - A fork of Powercord was made by Baked/dperolio called Vizality. One of the Powercord devs, Bowser65, didn't liked to have the idea of a fork about his product, so he's trying his best to end this fork. But really nobody asked for a war against it.
+  - A fork of [Powercord](https://github.com/powercord-org) was made by Baked/dperolio called [Vizality](https://github.com/vizality). One of the Powercord devs, Bowser65, didn't liked to have the idea of a fork about his product, so he's trying his best to end this fork. But really nobody asked for a war against it.
 - Powercord New License
-  - Some weeks after Vizality's fork was known, Powercord devs made a new license for the project called Porkord. One theory to why this license exists is to try stop Vizality's development, since it only allows forks if the permission was gaven, and obviously they wouldn't give to Baked.
+  - Some weeks after Vizality's fork was known, Powercord devs made a new license for the project called [Porkord](https://github.com/powercord-org/powercord/blob/v2/LICENSE). One theory to why this license exists is to try stop Vizality's development, since it only allows forks if a permission is given from devs. Read that quote:
+  > All Rights Reserved. You are not allowed to redistribute this software, or use
+the software to build derivative works based upon without prior written permission.
 - DB/NFLD Message Logger Ban Attempt
 - BD Swishilicous Ban
-  - For some reason Pu thought that a known user in Discord's mod community called Swishilicous was giving message loggers to users. According to that user, he wasn't giving message loggers.
+  - For some reason Pu, admin from BetterDiscord's secondary server, thought that a user called [Swishilicous](https://github.com/Swishilicous) was giving message loggers to users. According to that user, he wasn't giving message loggers.
 - Pu's Wrath
 - The Saza Oopsie
 - The Muting of A user
