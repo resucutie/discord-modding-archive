@@ -15,10 +15,12 @@ If you wanna add more, free feel to make a issue or a PR.
   > All Rights Reserved. You are not allowed to redistribute this software, or use
 the software to build derivative works based upon without prior written permission.
 - DB/NFLD Message Logger Ban Attempt
+  - *need to write more*
 - BD Swishilicous Ban
   - For some reason Pu, admin from BetterDiscord's secondary server, thought that a user called [Swishilicous](https://github.com/Swishilicous) was giving message loggers to users. According to that user, he wasn't giving message loggers.
 - Pu's Wrath
 - The Saza Oopsie
+  - *need to write more*
 - The Muting of A user
   - Actually me (A user) got muted 2 times on Powercord server. The first one was when I was talking about distros, and then Bowser65 criticized about my distro that I was using in that moment, Ubuntu. Then I got angry and we started to quarrel about Arch and Ubuntu, and in the end I got muted after that. I got unmuted after a time. The second I still don't know why it happened, and yes I'm still muted. If you (Bowser65) is reading this, please consider a unmute.
 - The Powercord Nuke (and hellbound)
