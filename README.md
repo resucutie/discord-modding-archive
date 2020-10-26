@@ -1,6 +1,7 @@
 # All the discord modding drama
 I listed every kinda of known drama about the problematic discord modding community, that sadly has a bad history. I hope that everything gets better any day<br>
-Also everything here is in the chronological date, or at least i tried to put
+Also everything here is in the chronological date, or at least i tried to put<br>
+If you wanna add more, free feel to make a issue or a PR
 
 ## Chronological events
 
