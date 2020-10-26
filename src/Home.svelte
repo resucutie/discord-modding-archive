@@ -6,9 +6,12 @@
 <style>
 </style>
 
-<h1>All The Discord Modding Drama</h1>
+<h1>Discord Modding Archive</h1>
 <a
 	href="/events"
 	on:click={() => {
 		$path = '/events';
 	}}>Timeline</a>
+
+<a href="https://pull.git.ci/process/KyzaGitHub/discord-modding-archive">Trigger
+	Website Update</a>
