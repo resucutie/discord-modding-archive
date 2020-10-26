@@ -1,4 +1,4 @@
-# All the discord modding drama.
+# All the discord modding community drama.
 I listed every kinda of known drama about the problematic discord modding community, that sadly has a bad history.
 I hope that everything gets better any day.
 Also everything here is in the chronological date, or at least I tried to put.
