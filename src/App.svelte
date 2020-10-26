@@ -23,12 +23,17 @@
 <style>
 	main {
 		text-align: center;
-		padding: 1em;
+		padding: 0;
 		margin: 0 auto;
+	}
+	.page {
+		padding: 1em;
 	}
 </style>
 
 <main>
 	<Titlebar />
-	<Router {routes} />
+	<div class="page">
+		<Router {routes} />
+	</div>
 </main>

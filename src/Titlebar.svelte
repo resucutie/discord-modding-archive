@@ -20,7 +20,11 @@
 				...breadcrumbs,
 				{
 					name: split.replace(/\//g, ""),
-					navigation: lastBreadCrumb.navigation + split,
+					navigation: (
+						lastBreadCrumb.navigation +
+						"/" +
+						split
+					).replace(/\/\//g, "/"),
 				},
 			];
 			lastBreadCrumb = breadcrumbs[breadcrumbs.length - 1];
@@ -31,12 +35,21 @@
 </script>
 
 <style>
+	.titlebar {
+		font-size: larger;
+		padding: 1em;
+		background-color: #292b2f;
+		filter: drop-shadow(0px 2px 1px rgba(4, 4, 5, 0.6));
+		user-select: none;
+	}
 </style>
 
-{#each breadcrumbs as breadcrumb}
-	<a
-		href={breadcrumb.navigation}
-		on:click={() => {
-			$path = breadcrumb.navigation;
-		}}>{breadcrumb.name}</a>{breadcrumb === breadcrumbs[0] ? ' ' : ' / '}
-{/each}
+<div class="titlebar">
+	{#each breadcrumbs as breadcrumb}
+		<a
+			href={breadcrumb.navigation}
+			on:click={() => {
+				$path = breadcrumb.navigation;
+			}}>{breadcrumb.name}</a>{breadcrumb === breadcrumbs[0] ? ' ' : ' / '}
+	{/each}
+</div>
