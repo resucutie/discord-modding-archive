@@ -19,5 +19,5 @@ If you wanna add more, free feel to make a issue or a PR.
 - The Saza Oopsie
 - The Muting of A user
   - Actually me (A user) got muted 2 times on Powercord server. The first one was when I was talking about distros, and then Bowser65 criticized about my distro that I was using in that moment, Ubuntu. Then I got angry and we started to quarrel about Arch and Ubuntu, and in the end I got muted after that. I got unmuted after a time. The second I still don't know why it happened, and yes I'm still muted. If you (Bowser65) is reading this, please consider a unmute.
-- The Powercord Nuke
-  - *need to write more about*
+- The Powercord Nuke (and hellbound)
+  - Around the 14th September 2020, hellbound got muted in the Powercord server, later (01:47:36 UTC+1), he pushed (obfuscated) malicious code to all of his plugins with the goal of grabbing Powercord staff’s tokens. He did succeed, and got a staff’s token (Ben’s) and managed to delete all of Powercord’s channels and roles under staff and privated all his plugin’s repositories. Even later, wave 2, his plugins went public, but this time, with the intention of grabbing everyone’s tokens.
