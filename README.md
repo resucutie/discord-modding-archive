@@ -2,6 +2,8 @@
 I listed every kinda of known drama about the problematic discord modding community, that sadly has a bad history. I hope that everything gets better any day<br>
 Also everything here is in the chronological date, or at least i tried to put
 
+## Chronological events
+
 - BetterDocs/DiscordSource
 - Powercord war against its fork called Vizality where nobody asked
 - Powercord new license
