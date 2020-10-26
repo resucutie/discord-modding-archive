@@ -36,6 +36,8 @@
 
 <style>
 	.titlebar {
+		font-weight: 100;
+		font-family: Discord;
 		font-size: larger;
 		padding: 1em;
 		background-color: #292b2f;

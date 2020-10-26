@@ -1,4 +1,11 @@
 @font-face {
+	font-family: "Discord";
+	src: url("fonts/discord.woff2") format("woff2"),
+		url("fonts/discord.woff") format("woff");
+	font-style: normal;
+}
+
+@font-face {
 	font-family: Whitney;
 	font-weight: 300;
 	src: url(https://cors-anywhere.herokuapp.com/https://canary.discord.com/assets/6c6374bad0b0b6d204d8d6dc4a18d820.woff)
@@ -110,4 +117,14 @@ button:not(:disabled):active {
 
 button:focus {
 	border-color: #666;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Discord;
+	font-weight: 100;
 }
