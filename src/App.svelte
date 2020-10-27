@@ -4,6 +4,8 @@
 	import Home from "./Home.svelte";
 	import Timeline from "./Timeline.svelte";
 	import TimelinePoint from "./TimelinePoint.svelte";
+	import UserPage from "./UserPage.svelte";
+	import UsersPage from "./UsersPage.svelte";
 	import PageNotFound from "./PageNotFound.svelte";
 
 	const routes = [
@@ -15,6 +17,11 @@
 		{
 			name: "events/:id",
 			component: TimelinePoint,
+		},
+		{ name: "users", component: UsersPage },
+		{
+			name: "users/:id",
+			component: UserPage,
 		},
 		{ name: "404", component: PageNotFound },
 	];

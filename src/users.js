@@ -8,9 +8,7 @@ export default {
 	"220584715265114113": {
 		name: "Kyza",
 		aliases: [],
-		profilePictures: [
-			"https://cdn.discordapp.com/avatars/220584715265114113/c24f9fbf9be10ded2fe50352ad62403b.png",
-		],
+		profilePictures: ["/images/ZPjXwF.gif"],
 		links: ["https://github.com/KyzaGitHub"],
 	},
 };
